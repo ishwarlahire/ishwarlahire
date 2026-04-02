@@ -1,6 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=350&section=header&text=Ishwar%20Lahire&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&color=0:141E30,50:243B55,100:000000"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Ishwar%20Lahire&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
 <h1 align="center">Hey 👋, I'm Ishwar Lahire</h1>
 <h3 align="center">🚀 Backend Developer | Node.js | Fastify | TypeScript</h3>
 
