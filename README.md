@@ -25,8 +25,8 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Jr. Software Developer @ BAAP Company  
-- 🔥 Backend-focused developer (Node.js + Fastify + TypeScript)  
+- 💼 Software Developer @ BAAP Company  
+- 🔥 Backend-focused developer (Python + Django + SQL + Node.js + Fastify + TypeScript)  
 - 🧠 Strong in REST APIs, JWT Authentication & Real-time systems  
 - ⚡ Built OTP System (SMS + WhatsApp + Email) using Redis  
 - 🐳 Experience with Docker & scalable backend architecture  
