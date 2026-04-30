@@ -31,7 +31,7 @@
 - ⚡ Built OTP System (SMS + WhatsApp + Email) using Redis  
 - 🐳 Experience with Docker & scalable backend architecture  
 - 🌱 Currently learning **System Design & Microservices**  
-- 🎯 Goal: Become a Senior Backend Engineer  
+- 🎯 Goal: Become a Senior fullstack developer  
 
 ---
 
