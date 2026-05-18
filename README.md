@@ -35,7 +35,7 @@
 
 ---
 
-## Tech Stack (Updated from Resume)
+## Tech Stack
 
 <div align="center">
 
