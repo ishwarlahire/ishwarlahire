@@ -34,7 +34,7 @@
 - 🌱 Currently learning **System Design & Microservices**  
 - 🎯 Goal: Become a Senior fullstack developer  
 
----
+--- 
 
 ## Tech Stack
 
