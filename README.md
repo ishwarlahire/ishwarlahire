@@ -69,9 +69,9 @@
 
 ## 📌 Featured Projects
 
-### 🔹 Skill Swap Network
+### 🔹 SkillSwap Network
 - 💡 Full-stack skill exchange platform  
-- 🔐 JWT Authentication + REST APIs  
+- 🔐 JWT Authentication + REST APIs
 - 💬 Real-time Chat (WebSocket)  
 - 🗄️ PostgreSQL + Admin Panel  
 
