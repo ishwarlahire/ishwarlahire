@@ -4,7 +4,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+Fastify+Expert;Building+Scalable+APIs;Real-Time+Systems+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;FastAPI+%7C+Django+%7C+React;REST+API+Development;PostgreSQL+%7C+Redis+%7C+Docker;Always+Learning+and+Building"/>
 </p>
 
 <p align="center">
