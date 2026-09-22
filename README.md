@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Ishwar%20Lahire&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&color=0:141E30,50:243B55,100:000000"/>
 <h1 align="center">Hey, I'm Ishwar Lahire</h1>
-<h3 align="center"> Backend Developer | Python | FastAPI | SQL | Django | Node.js | Fastify | TypeScript</h3>
+<h3 align="center"> Python Developer | Python | FastAPI | SQL | Django |PostgreSQL|REST APIs </h3>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -25,13 +25,12 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Software Developer @ BAAP Company  
-- 🔥 Backend-focused developer (Python + FastAPI + Django + SQL + Node.js + Fastify + TypeScript)  
+- 💼 Full-Stack Python Developer at The BAAP Company  
+- 🔥 Backend-focused developer (Python + FastAPI + Django + SQL)  
 - 🧠 Strong in REST APIs, JWT Authentication & Real-time systems  
 - ⚡ Built OTP System (SMS + WhatsApp + Email) using Redis  
 - 🐳 Experience with Docker & scalable backend architecture  
 - 🌱 Currently learning **System Design & Microservices**  
-- 🎯 Goal: Become a Senior fullstack developer  
 
 --- 
 
@@ -46,15 +45,20 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
 
 <!-- Backend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
 
 <!-- Databases -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
+
+<!--Frontend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 
 <!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
@@ -67,25 +71,42 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
+### Education Management Platform
+- Student, Faculty & Admin Management
+- Attendance & Timetable Management
+- Django REST Framework APIs
+- Role-Based Access Control (RBAC)
+- MySQL Database Design
 
-### 🔹 SkillSwap Network
-- 💡 Full-stack skill exchange platform  
-- 🔐 JWT Authentication + REST APIs
-- 💬 Real-time Chat (WebSocket)  
-- 🗄️ PostgreSQL + Admin Panel  
-
----
-
-### 🔹 Multi-Channel OTP Authentication System
-- 📲 OTP via SMS, WhatsApp & Email  
-- ⚡ Redis caching for secure OTP  
-- 🔐 JWT-based authentication  
-- 🏗️ Clean MVC architecture  
+### SkillSwap Network
+- Full-stack skill exchange platform  
+- JWT Authentication + REST APIs
+- Real-time Chat (WebSocket)  
+- PostgreSQL + Admin Panel  
 
 ---
 
-## 📊 GitHub Analytics
+### Multi-Channel OTP Authentication System
+- OTP via SMS, WhatsApp & Email  
+- Redis caching for secure OTP  
+- JWT-based authentication  
+- Clean MVC architecture  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 HackerRank Python Certified
+- 🥇 HackerRank SQL Certified
+- ⭐ 5-Star in Python
+- ⭐ 5-Star in SQL
+- 💻 Solved 100+ DSA Problems
+
+---
+
+
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishwarlahire&show_icons=true&theme=tokyonight" />
